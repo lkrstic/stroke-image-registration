@@ -1,6 +1,7 @@
 # Stroke Image Registration with MONAI
 ### Lana Krstic
 ### CAP 6683 - AI in Medicine and Healthcare
+https://github.com/lkrstic/stroke-image-registration.git
 
 This demo shows how to perform image registration using the MONAI Core framework. We load a set of MRI images showing ischemic stroke, then train a basic model. Each image is paired with a copy which undergoes a series of transformations. The system should then predict which transformations took place between the paired images, and align them accordingly.
 
